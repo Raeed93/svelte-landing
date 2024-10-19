@@ -5,7 +5,7 @@
 import * as stytch from 'stytch';
 
 // Initialize the Stytch client using environment variables
-//Test
+//Test1
 // Check that environment variables are defined
 const project_id = process.env.STYTCH_PROJECT_ID;
 const secret = process.env.STYTCH_SECRET;

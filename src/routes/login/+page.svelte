@@ -12,9 +12,9 @@
       <button type="submit">Send Magic Link</button>
     </form>
 
-    <!-- <form method="POST" action="?/create">
+    <form method="POST" action="?/create">
         <input type="email" id="username" name="username" required />
-        <button type="submit">Send Magic Link</button>
-      </form> -->
+        <button type="submit">Send Magic Link Button</button>
+      </form>
 
   </div>
